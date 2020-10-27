@@ -1,0 +1,13 @@
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\bin\Debug\netcoreapp3.1\27.10.2020.exe
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\bin\Debug\netcoreapp3.1\27.10.2020.deps.json
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\bin\Debug\netcoreapp3.1\27.10.2020.runtimeconfig.json
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\bin\Debug\netcoreapp3.1\27.10.2020.runtimeconfig.dev.json
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\bin\Debug\netcoreapp3.1\27.10.2020.dll
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\bin\Debug\netcoreapp3.1\27.10.2020.pdb
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\obj\Debug\netcoreapp3.1\27.10.2020.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\obj\Debug\netcoreapp3.1\27.10.2020.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\obj\Debug\netcoreapp3.1\27.10.2020.AssemblyInfo.cs
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\obj\Debug\netcoreapp3.1\27.10.2020.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\obj\Debug\netcoreapp3.1\27.10.2020.dll
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\obj\Debug\netcoreapp3.1\27.10.2020.pdb
+C:\Users\Home\Desktop\homeworks\27.10.2020\27.10.2020\obj\Debug\netcoreapp3.1\27.10.2020.genruntimeconfig.cache
